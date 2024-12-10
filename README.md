@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: the `RecursionError: maximum recursion depth exceeded` error. This error occurs when a recursive function doesn't have a proper base case, leading to infinite recursion. The `bug.py` file contains the erroneous code, while `bugSolution.py` provides the corrected version.
